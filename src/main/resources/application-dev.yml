@@ -1,0 +1,30 @@
+# 开发环境
+server:
+  port: 8081
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/sso?useUnicode=true&useSSL=false&serverTimezone=UTC
+    username: root
+    password: 123456
+
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    mode: HTML5
+    encoding: utf-8
+    servlet:
+      content-type: text/html
+    cache: false
+
+  http:
+    encoding:
+      charset: utf-8
+      enabled: true
+
+  #热部署
+  devtools:
+    restart:
+      enabled: true
+
