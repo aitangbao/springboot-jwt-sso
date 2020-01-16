@@ -24,7 +24,7 @@ SSO简单来说就是一句话：一处登录，全部访问。
 
 
 ### 项目使用
-1.执行test下的sql脚本，配置数据库连接
-2.启动两个项目， 一个端口8080,8081
-3.访问localhost:8080, 用户名admin，密码admin， 登陆
-4.访问localhost:8081/ssocheck 惊喜等待你！
+1.执行test下的sql脚本，配置数据库连接  
+2.启动两个项目， 一个端口8080,8081  
+3.访问localhost:8080, 用户名admin，密码admin， 登陆  
+4.访问localhost:8081/ssocheck 惊喜等待你！  
