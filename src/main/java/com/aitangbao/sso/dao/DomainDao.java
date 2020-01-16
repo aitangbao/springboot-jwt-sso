@@ -6,8 +6,8 @@ import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author zjg
- * @date 2018/8/14 15:23
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * @Description 子系统（域名）管理数据接口层
  */
 @Mapper

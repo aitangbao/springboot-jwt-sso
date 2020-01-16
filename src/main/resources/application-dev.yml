@@ -22,9 +22,3 @@ spring:
     encoding:
       charset: utf-8
       enabled: true
-
-  #热部署
-  devtools:
-    restart:
-      enabled: true
-

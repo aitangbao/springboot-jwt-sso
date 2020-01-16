@@ -13,8 +13,8 @@ import com.aitangbao.sso.util.Result.ResultCodeEnum;
 import java.util.List;
 
 /**
- * @author zjg
- * @date 2018/8/14 15:34
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * @Description 子系统(域名)管理控制层
  */
 @Slf4j

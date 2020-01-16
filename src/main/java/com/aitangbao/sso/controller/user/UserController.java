@@ -11,8 +11,8 @@ import com.aitangbao.sso.util.Result.Result;
 import com.aitangbao.sso.util.Result.ResultCodeEnum;
 
 /**
- * @author zjg
- * @date 2018/8/14 8:19
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * @Description
  */
 @Slf4j

@@ -3,6 +3,10 @@ package com.aitangbao.sso.util;
 import com.baomidou.mybatisplus.core.toolkit.StringUtils;
 import org.apache.commons.codec.digest.DigestUtils;
 
+/**
+ * @author aitangbao
+ * @date 20120/1/14 15:34
+ */
 public class MD5Utils {
 
 	private static String salt = "sso";

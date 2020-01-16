@@ -6,8 +6,8 @@ import com.aitangbao.sso.entity.TbDomain;
 import java.util.List;
 
 /**
- * @author zjg
- * @date 2018/8/14 15:16
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * @Description 子系统（域名）管理业务层接口
  */
 public interface DomainService {

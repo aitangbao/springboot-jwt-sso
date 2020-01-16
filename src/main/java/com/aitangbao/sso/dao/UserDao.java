@@ -6,8 +6,8 @@ import org.springframework.stereotype.Repository;
 import com.aitangbao.sso.entity.TbUser;
 
 /**
- * @author zjg
- * @date 2018/8/14 8:31
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * @Description 用户数据接口层
  */
 @Mapper

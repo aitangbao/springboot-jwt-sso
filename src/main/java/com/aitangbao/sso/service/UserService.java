@@ -4,8 +4,8 @@ import org.springframework.transaction.annotation.Transactional;
 import com.aitangbao.sso.entity.TbUser;
 
 /**
- * @author zjg
- * @date 2018/8/14 8:27
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * @Description 用户业务层接口
  */
 public interface UserService {

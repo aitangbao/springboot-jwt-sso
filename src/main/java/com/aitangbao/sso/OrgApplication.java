@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("org.wlgzs.website.dao")
+@MapperScan("com.aitangbao.sso.dao")
 public class OrgApplication {
 
 	public static void main(String[] args) {

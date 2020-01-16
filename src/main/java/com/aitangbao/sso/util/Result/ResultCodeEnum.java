@@ -3,8 +3,8 @@ package com.aitangbao.sso.util.Result;
 import lombok.Getter;
 
 /**
- * @author zjg
- * @date 2018/7/17 21:15
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * @Description 统一返回代码枚举
  */
 public enum ResultCodeEnum {

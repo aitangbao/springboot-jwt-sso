@@ -9,6 +9,8 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Date;
 
 /**
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * jwt工具类
  */
 public class JwtUtils {

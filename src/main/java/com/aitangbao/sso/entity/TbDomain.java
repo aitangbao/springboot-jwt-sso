@@ -6,8 +6,8 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author zjg
- * @date 2018/8/9 19:50
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * @Description 子系统（域名）管理
  */
 @Data

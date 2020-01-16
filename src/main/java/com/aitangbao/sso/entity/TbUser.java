@@ -1,15 +1,13 @@
 package com.aitangbao.sso.entity;
 
-import com.alibaba.fastjson.JSON;
 import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 
 /**
- * @author zjg
- * @date 2018/8/8 17:23
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * @Description 用户实体类：13个属性
  */
 @Data

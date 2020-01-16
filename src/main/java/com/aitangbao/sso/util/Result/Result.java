@@ -5,8 +5,8 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
- * @author zjg
- * @date 2018/7/17 21:14
+ * @author aitangbao
+ * @date 20120/1/14 15:34
  * @Description 统一的返回结果
  */
 @Data
