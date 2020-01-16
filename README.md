@@ -29,3 +29,6 @@ SSO简单来说就是一句话：一处登录，全部访问。
 3.访问localhost:8080, 用户名admin，密码admin， 登陆  
 4.访问localhost:8081/ssocheck 惊喜等待你！  
 5.实际项目中， 可使用拦截器获取cookie进行校验
+
+## License
+纯粹开源分享，感谢大家 [Star](https://github.com/aitangbao/springboot-jwt-sso) 的支持。
